@@ -1,0 +1,19 @@
+{
+    "name": "crud-operations",
+    "type": "library",
+    "description": "A reusable CRUD operations component for Laravel.",
+    "keywords": ["log","logging"],
+    "homepage": "https://github.com/maiTarek98/crud-operations",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mai Tarek",
+            "email": "maiTarekttt@gmail.com",
+            "homepage": "https://github.com/maiTarek98",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    }
+}
