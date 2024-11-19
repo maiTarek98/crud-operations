@@ -1,5 +1,5 @@
 {
-    "name": "maiTarek98/crud-operations",
+    "name": "maitarek/crud-operations",
     "type": "library",
     "description": "A reusable CRUD operations component for Laravel.",
     "keywords": ["maiTarek98","laravel","laravel-crud-operations"],
