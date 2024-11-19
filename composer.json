@@ -1,8 +1,8 @@
 {
-    "name": "crud-operations",
+    "name": "maiTarek98/crud-operations",
     "type": "library",
     "description": "A reusable CRUD operations component for Laravel.",
-    "keywords": ["log","logging"],
+    "keywords": ["maiTarek98","laravel","laravel-crud-operations"],
     "homepage": "https://github.com/maiTarek98/crud-operations",
     "license": "MIT",
     "authors": [
